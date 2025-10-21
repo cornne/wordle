@@ -14,7 +14,7 @@ This is a Python implementation of the Wordle game using Tkinter and the `uv` li
    - This `README.md` file
 3. Open a terminal or command prompt.
 4. Navigate to the directory containing the downloaded files.
-5. Install the required libraries by running the following command: pip install -r requirements.txt
+5. Install the required libraries by running the following command: `pip install -r requirements.txt`
 - Note: Ensure `pip` is installed. If not, install it by running `python -m ensurepip --upgrade` and `python -m pip install --upgrade pip`.
 - The `requirements.txt` file includes the `uv` library and other dependencies needed to run the game.
 6. Verify the installation by checking that no errors occur during the `pip install` command.
