@@ -20,7 +20,7 @@ This is a Python implementation of the Wordle game using Tkinter and the `uv` li
 6. Verify the installation by checking that no errors occur during the `pip install` command.
 
 ## How to Run the Game
-1. After installing the dependencies, run the game by executing the following command in the terminal: python main.py
+1. After installing the dependencies, run the game by executing the following command in the terminal: `python main.py`
 2. The game will launch with a main menu. Click "Start Game" to begin.
 
 ## How to Play
