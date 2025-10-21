@@ -7,7 +7,7 @@ This is a Python implementation of the Wordle game using Tkinter and the `uv` li
 - Required libraries (listed in `requirements.txt`)
 
 ## Installation
-1. Ensure Python 3.x is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
+1. Ensure Python 3.11 is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 2. Download the following files from the submission:
    - `wordle_game.py` (the game source code)
    - `requirements.txt` (list of required libraries)
