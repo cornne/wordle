@@ -2,10 +2,6 @@
 
 This is a Python implementation of the Wordle game using Tkinter and the `uv` library. The game allows players to guess a 5-letter word within 6 attempts, with color feedback (green for correct position, yellow for correct letter but wrong position, gray for incorrect letter).
 
-## Requirements
-- Python 3.x
-- Required libraries (listed in `requirements.txt`)
-
 ## Installation
 1. Ensure Python 3.11 is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 2. Download the following files from the submission:
@@ -40,11 +36,3 @@ This is a Python implementation of the Wordle game using Tkinter and the `uv` li
 ## Additional Resources
 - The game uses a predefined list of words embedded in the code. No external resource files (e.g., dictionaries) are required.
 - If you need to expand the word list, modify the `WORDS` list in the code.
-
-## Notes
-- No modifications to the submission are allowed after the deadline.
-- The submission complies with the 25MB size limit and contains only the source code and `requirements.txt`.
-- Ensure all dependencies are installed before running the game to avoid errors.
-
-## Contact
-For questions, contact [Your Name/Email] (replace with your details).
