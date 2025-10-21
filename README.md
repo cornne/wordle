@@ -1,4 +1,4 @@
-# Wordle Unlimited Game
+# Wordle Game
 
 This is a Python implementation of the Wordle game using Tkinter and the `uv` library. The game allows players to guess a 5-letter word within 6 attempts, with color feedback (green for correct position, yellow for correct letter but wrong position, gray for incorrect letter).
 
